@@ -1,0 +1,5 @@
+customer_id,customer_name,city,account_type,balance
+C001,Priya Gupta,Lucknow,Savings,50000
+C002,Rahul Sharma,Kanpur,Current,120000
+C003,Aman Verma,Delhi,Savings,85000
+C004,Neha Singh,Noida,Current,65000
